@@ -7,6 +7,15 @@ import imag5 from "../img/imag5.png"
 import imag6 from "../img/imag6.png"
 import imag7 from "../img/imag7.png"
 import imag8 from "../img/imag8.png"
+import imag9 from "../img/imag9.png"
+import imag10 from "../img/imag10.png"
+import imag11 from "../img/imag11.png"
+import imag12 from "../img/imag12.png"
+import imag13 from "../img/imag13.png"
+import imag14 from "../img/imag14.png"
+import imag15 from "../img/imag15.png"
+import imag16 from "../img/imag16.png"
+
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -93,41 +102,83 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Semana 1",
-            live: "https://www.figma.com/file/QMIzRF79RkCCoL2wZKou1g/Untitled?type=design&node-id=0-1&t=Hy2GvkGbl9kixbxo-0",
+            live: "http://localhost:3000/semana1",
             image: imag1,
         },
         {
             title: "Semana 2",
-            live:"https://github.com/Mauvalis/emmet/blob/main/emmet.html",
+            live: "http://localhost:3000/semana2",
             image: imag2
         },
         {
             title: "Semana 3",
-            live: "https://wp.ditsolution.net/techno/home-8/",
+            live: "http://localhost:3000/semana3",
             image: imag3
         },
         {
             title: "Semana 4",
-            live: "https://mauvalis.github.io/emmet/",
+            live: "http://localhost:3000/semana4",
             image: imag4
         },
         {
             title: "Semana 5",
-            live: "https://mauvalis.github.io/json/",
+            live: "http://localhost:3000/semana5",
             image: imag5
         },
         {
             title: "Semana 6",
+            live: "http://localhost:3000/semana6",
             image: imag6
         },
         {
             title: "Semana 7",
+            live: "http://localhost:3000/semana7",
             image: imag7
         },
         {
             title: "Semana 8",
-            
+            live: "http://localhost:3000/semana8",
             image: imag8
+        },
+        {
+            title: "Semana 9",
+            live: "http://localhost:3000/semana9",
+            image: imag9
+        },
+        {
+            title: "Semana 10",
+            live: "http://localhost:3000/semana10",
+            image: imag10
+        },
+        {
+            title: "Semana 11",
+            live: "http://localhost:3000/semana11",
+            image: imag11
+        },
+        {
+            title: "Semana 12",
+            live: "http://localhost:3000/semana12",
+            image: imag12
+        },
+        {
+            title: "Semana 13",
+            live: "http://localhost:3000/semana13",
+            image: imag13
+        },
+        {
+            title: "Semana 14",
+            live: "http://localhost:3000/semana14",
+            image: imag14
+        },
+        {
+            title: "Semana 15",
+            live: "http://localhost:3000/semana15",
+            image: imag15
+        },
+        {
+            title: "Semana 16",
+            live: "http://localhost:3000/semana16",
+            image: imag16
         }
     ]
 }

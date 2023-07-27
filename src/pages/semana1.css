@@ -1,0 +1,75 @@
+/* semana1.css */
+/* Estilos generales */
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+  }
+  
+  /* Contenedor principal */
+  .content-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+  }
+  
+  /* Contenedor del contenido */
+  .about-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	width: 80%;
+	max-width: 1200px;
+	padding: 20px;
+  }
+  
+  /* Contenedor del texto */
+  .about-main {
+	flex: 1;
+  }
+  
+  /* Título */
+  .about-title {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 10px;
+  }
+  
+  /* Subtítulo */
+  .about-subtitle {
+	font-size: 16px;
+	line-height: 1.6;
+  }
+  
+  /* Contenedor de la imagen y el botón */
+  .about-left-side {
+	flex: 1;
+	text-align: center;
+  }
+  
+  /* Imagen */
+  .about-image-container {
+	margin-bottom: 20px;
+  }
+  
+  .about-image {
+	width: 100%;
+	max-width: 400px;
+  }
+  
+  /* Botón */
+  .about-left-side button {
+	background-color: #0066cc;
+	color: #fff;
+	font-size: 16px;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+  }
+  
+  .about-left-side button:hover {
+	background-color: #0052a3;
+  }
+  
